@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: printing
-        runs: echo "Hello from feature-deploy"
+        run: echo "Hello from feature-deploy"
